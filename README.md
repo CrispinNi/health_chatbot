@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Virtual Assistant Chatbot 🏥
 
 A medical chatbot application built with FastAPI and React that helps users with basic health queries and medical information. The chatbot provides general health guidance while maintaining appropriate medical disclaimers and ethical guidelines.
@@ -153,3 +154,4 @@ This chatbot is for informational purposes only and is not a substitute for prof
 ## Support 📧
 
 For support, email: crispinni013@gmail.com or open an issue in the repository.
+

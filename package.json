@@ -1,5 +1,5 @@
 {
-  "homepage":"https://CrispinNi/github.io/hosp",
+  "homepage":"https://CrispinNi/github.io/health_chatbot",
   "name": "hosp",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    "deploy":"gh-pages -d build",
     "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "build": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "test": "react-scripts test",
